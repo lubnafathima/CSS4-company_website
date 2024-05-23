@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+.header {
+  height: 11vh;
+}
+.logo {
+  float: left;
+  padding: 1.45rem 6.67rem;
+}
+.navigation {
+  float: right;
+  padding: 1.89rem 6.67rem;
+}
+.list-item {
+  display: inline-block;
+  padding-left: 3.11rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+.container {
+  height: 89vh;
+  background-color: #5956cf;
+  color: #fff;
+  padding: 13rem 0 0 6.67rem;
+}
+.container-title {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 4.8rem;
+  width: 49.5rem;
+}
+.container-content {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-top: 1.33rem;
+  width: 49.5rem;
+}
+.section {
+  padding: 3.56rem 0;
+}
+.content-box {
+  margin: auto;
+  width: 53.33rem;
+  padding: 1.78rem;
+  background-color: #f5f7fa;
+  text-align: center;
+  border-radius: 0.8rem;
+}
+.section-title {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 3.2rem;
+}
+.section-content {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-top: 1.33rem;
+}
+.footer {
+  background-color: #5956cf;
+  color: #fff;
+  padding: 1.37rem;
+  text-align: center;
+}
+.footer-content {
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1rem;
+}
